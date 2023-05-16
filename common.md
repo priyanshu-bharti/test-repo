@@ -1,1 +1,1 @@
-This is a common file. Edited by feature1
+This is a common file. Edited by feature1 Edited by feature2
